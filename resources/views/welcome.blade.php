@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    1911微信 Hello Word!
                 </div>
 
                 <div class="links">
